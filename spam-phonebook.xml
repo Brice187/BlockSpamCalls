@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="1" name="Spam"><contact><category>0</category><person><realName>a</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">071164660</number><number
+type="mobile" id="1">0711490709198</number><number type="work" id="2">021919355775</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338242</mod_time><uniqueid>154</uniqueid></contact><contact><category>0</category><person><realName>b</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">022129191642</number><number
+type="mobile" id="1">022129191641</number><number type="work" id="2">068315031590</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338278</mod_time><uniqueid>155</uniqueid></contact><contact><category>0</category><person><realName>c</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">06929917019</number><number
+type="mobile" id="1">054319070970</number><number type="work" id="2">021663999390</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338305</mod_time><uniqueid>156</uniqueid></contact><contact><category>0</category><person><realName>d</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">039315731379</number><number
+type="mobile" id="1">0621321640</number><number type="work" id="2">06992014593</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338327</mod_time><uniqueid>157</uniqueid></contact><contact><category>0</category><person><realName>e</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">0699789880</number><number
+type="mobile" id="1">02086205964</number><number type="work" id="2">0090712278662</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338350</mod_time><uniqueid>158</uniqueid></contact><contact><category>0</category><person><realName>f</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">0611890600147</number><number
+type="mobile" id="1">01930100</number><number type="work" id="2">043167070225</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338400</mod_time><uniqueid>160</uniqueid></contact><contact><category>0</category><person><realName>g</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">0800204011013</number><number
+type="mobile" id="1">022035710610</number><number type="work" id="2">05115693393</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1523338374</mod_time><uniqueid>159</uniqueid></contact><contact><category>0</category><person><realName>Spam</realName></person><telephony /><services /><setup /><features
+doorphone="0" /><mod_time>1523338183</mod_time><uniqueid>153</uniqueid></contact></phonebook>
+</phonebooks>
